@@ -1,7 +1,7 @@
 aid: cno-financial-group
 url: https://raw.githubusercontent.com/api-evangelist/cno-financial-group/refs/heads/main/apis.yml
 name: CNO Financial Group
-x-type: company
+kind: company
 tags:
   - Annuities
   - Financial Services
