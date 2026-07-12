@@ -25,6 +25,8 @@ description: >-
   portals).
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/cno-financial-group-domain-security.yml
   - url: https://www.cnoinc.com
     name: CNO Financial Group Website
     type: Website
