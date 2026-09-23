@@ -1,7 +1,9 @@
 ---
 title: Cognizant Expands Technology Operations Partnership ...
 url: https://www.prnewswire.com/news-releases/cognizant-expands-technology-operations-partnership-with-cno-financial-group-302069107.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CNO Financial Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

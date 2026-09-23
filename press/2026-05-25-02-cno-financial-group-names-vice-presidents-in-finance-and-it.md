@@ -1,7 +1,9 @@
 ---
 title: CNO Financial Group Names Vice Presidents in Finance and IT
 url: https://cno.mediaroom.com/2019-07-22-CNO-Financial-Group-Names-Vice-Presidents-in-Finance-and-IT
-date: '2026-05-25'
+published: '2019-07-22'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"CNO Financial Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

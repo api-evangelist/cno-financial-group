@@ -1,7 +1,9 @@
 ---
 title: Principal IT Security Architect - REMOTE from any EST or ...
 url: https://careers.cnoinc.com/carmel-in/principal-it-security-architect-remote-from-any-est-or-cst-us-based-location/EE542DCD79504109966807B414707BE4/job/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CNO Financial Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
