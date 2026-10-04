@@ -4,7 +4,7 @@ name: CNO Financial Group
 kind: company
 tags:
   - Annuities
-  - Financial-Services
+  - Financial Services
   - Health Insurance
   - Insurance
   - Life Insurance
@@ -16,6 +16,7 @@ tags_raw:
   - Insurance
   - Life Insurance
   - Workforce Benefits
+  - Financial-Services
 type: Index
 deliveryModel:
   model: unknown
